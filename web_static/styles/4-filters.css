@@ -1,4 +1,5 @@
-.filters {
+.container .filters {
+	position: relative;
 	background-color: white;
 	height: 70px;
 	width: 100%;
@@ -7,17 +8,17 @@
 }
 
 button {
+	position: absolute;
 	font-size: 18px;
 	background-color: #FF5A5F;
 	color: #FFFFFF;
 	height: 48px;
 	width: 20%;
 	
-	float: right;
-	border-style: none;
-	margin-right: 30px;
 	border-radius: 4px;
-	margin-top: 12px;
+	border-style: none;
+	right: 30px;
+	top: 11px;
 }
 
 button:hover {

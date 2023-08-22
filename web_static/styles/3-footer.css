@@ -3,12 +3,15 @@ footer {
 	background-color: white;
 	height: 60px;
 	width: 100%;
-	
 	border-top: 1px solid #CCCCCC;
 	bottom: 0;
 }
 
 footer p {
+	position: absolute;
 	text-align: center;
-	line-height: 30px;
+	top: 8px;
+	left: 0;
+	right: 0;
+	bottom: 0;
 }
