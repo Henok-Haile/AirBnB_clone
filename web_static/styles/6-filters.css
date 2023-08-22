@@ -30,7 +30,7 @@ button:hover {
 }
 
 .filters h2 {
-	margin-left: 16%;
+	margin-left: -10%;
 	margin-top: 0;
 	margin-bottom: 0;
 	font-weight: 600;
@@ -40,6 +40,14 @@ button:hover {
 	margin-left: 16%;
 	margin-bottom: 0;
 	font-weight: 600;
+}
+
+.pages {
+	margin-left: -17%;
+}
+
+.cities {
+	margin-left: -17%;
 }
 
 .filters h4 {
